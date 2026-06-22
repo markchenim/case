@@ -1,0 +1,37 @@
+代孕相关法律以及实操/实务操作/纠纷处理指引.md
+  s_c208fa7c934d89::t_9981e2f023feb0 1-250
+代孕相关法律以及实操/案例参考/典型案例.md
+  s_c208fa7c934d89::t_df628d4729e4d8 1-196
+代孕相关法律以及实操/实务操作/代孕协议效力分析.md
+  s_c208fa7c934d89::t_4fefd8039ae193 1-161
+代孕相关法律以及实操/实务操作/法律风险分析.md
+  s_c208fa7c934d89::t_18fd1262024f1b 1-161
+代孕相关法律以及实操/法律法规/相关司法解释与指导意见.md
+  s_c208fa7c934d89::t_d8487a3d2b0a6d 1-122
+代孕相关法律以及实操/法律法规/人口与计划生育法.md
+  s_c208fa7c934d89::t_9be47ca3abee2d 1-96
+代孕相关法律以及实操/README.md
+  s_c208fa7c934d89::t_83e8864703ab2b 1-91
+代孕相关法律以及实操/法律法规/人类辅助生殖技术管理办法.md
+  s_c208fa7c934d89::t_9112e9fcd34d5c 1-164
+代孕相关法律以及实操/实务操作/跨境代孕法律问题.md
+  s_c208fa7c934d89::t_2fabd939c553cc 1-259
+代孕相关法律以及实操/法律法规/民法典相关条文.md
+  s_c208fa7c934d89::t_31c0b0cac8e012 1-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "10acf3984152712ff82ce67c032c49908ba59a47",
+  "prompts": {},
+  "sessions": {
+    "s_c208fa7c934d89": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_112d45efeffe3BDSePa05yEf6p",
+        "model": "unknown"
+      },
+      "human_author": "hongliangchen <hongliang.chen@fussengroup.com>"
+    }
+  }
+}
