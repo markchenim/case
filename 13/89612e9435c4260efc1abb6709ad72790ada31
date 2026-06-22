@@ -1,0 +1,33 @@
+意定监护/实务操作/公证指南.md
+  s_c208fa7c934d89::t_6012079abbaa86 1-237
+意定监护/参考资料/文章与书籍.md
+  s_c208fa7c934d89::t_2dd89e51864a9a 1-115
+意定监护/实务操作/操作流程.md
+  s_c208fa7c934d89::t_e47e4e4ce55d68 1-281
+意定监护/实务操作/意定监护协议要点.md
+  s_c208fa7c934d89::t_a76d47d6d8b63d 1-261
+意定监护/README.md
+  s_c208fa7c934d89::t_e481953cc896b3 1-85
+意定监护/法律法规/民政部相关规定.md
+  s_c208fa7c934d89::t_29e0698d4873d4 1-124
+意定监护/法律法规/民法典相关条文.md
+  s_c208fa7c934d89::t_a5b4aa138dab63 1-121
+意定监护/案例参考/典型案例.md
+  s_c208fa7c934d89::t_223335385da985 1-188
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "1389612e9435c4260efc1abb6709ad72790ada31",
+  "prompts": {},
+  "sessions": {
+    "s_c208fa7c934d89": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_112d45efeffe3BDSePa05yEf6p",
+        "model": "unknown"
+      },
+      "human_author": "hongliangchen <hongliang.chen@fussengroup.com>"
+    }
+  }
+}
