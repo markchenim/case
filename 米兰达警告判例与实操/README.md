@@ -6,14 +6,14 @@
 
 ## 📋 项目说明
 
-米兰达警告是美国刑事司法体系中最具标志性的程序保障之一，源自1966年联邦最高法院在 **Miranda v. Arizona, 384 U.S. 436 (1966)** 案中的里程碑式裁决。该判例确立了执法人员在羁押讯问（custodial interrogation）前必须告知犯罪嫌疑人五项基本权利的宪法要求。
+米兰达警告是美国刑事司法体系中最具标志性的程序保障之一，源自1966年联邦最高法院在 **Miranda v. Arizona, 384 U.S. 436 (1966)** 案中的里程碑式裁决。该判例确立了执法人员在羁押讯问（custodial interrogation）前必须告知犯罪嫌疑人的宪法要求。
 
-米兰达警告的核心内容包括：
+米兰达警告的核心内容中，**宪法必需的是前四项警告**；第5项（随时中断讯问权）是后续判例发展与执法实践中普及的通行做法，并非1966年判决书原文的要求：
 1. **保持沉默权**（Right to remain silent）
 2. **供述可能作为不利证据**（Anything you say can be used against you）
 3. **聘请律师权**（Right to an attorney）
 4. **指定律师权**（Right to appointed counsel if indigent）
-5. **随时中断讯问权**（Right to stop questioning at any time）
+5. **随时中断讯问权**（Right to stop questioning at any time）——后续实践补充
 
 本知识库以美国宪法第五修正案（不自证其罪条款）和第六修正案（律师权条款）为基础，从宪法判例、各州实务操作、案例研究三个维度，系统梳理米兰达警告的法律框架和实践应用，旨在为法律研究者、比较法学者和实务工作者提供全面、客观的参考。
 
@@ -91,7 +91,7 @@
 | 1966 | Miranda v. Arizona | 确立米兰达警告的宪法要求 |
 | 1971 | Harris v. New York | 违反米兰达规则的供述可用于弹劾 |
 | 1981 | Edwards v. Arizona | 确立"Edwards规则"：一旦主张律师权，讯问必须停止 |
-| 1985 | Oregon v. Elstad | 非故意违反米兰达规则不导致"毒树之果" |
+| 1985 | Oregon v. Elstad | 未告知权利的供述本身不触发"毒树之果"；后续自愿供述可采 |
 | 2000 | Dickerson v. United States | 确认米兰达规则是宪法性规则，国会不得推翻 |
 | 2010 | Berghuis v. Thompkins | 明确弃权可以是默示的，嫌疑人必须明确主张沉默权 |
 | 2022 | Vega v. Tekoh | 米兰达规则违反不产生§1983民事诉讼救济 |

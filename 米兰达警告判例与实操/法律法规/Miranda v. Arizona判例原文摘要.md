@@ -19,7 +19,8 @@
 
 - 绑架罪（Kidnapping）
 - 强奸罪（Rape）
-- 抢劫罪（Robbery）
+
+> **说明**：Miranda被起诉并被定罪的罪名是绑架与强奸两罪（案发过程中另有抢走少量现金的行为），各判20-30年监禁、合并执行。
 
 ### 案件事实
 
@@ -59,22 +60,20 @@
 
 ### 权利告知的具体内容
 
-最高法院在判决书中明确要求，羁押讯问前必须告知嫌疑人以下内容：
+判决书原文对羁押讯问前的告知义务作了如下概括性要求：
 
-1. **保持沉默权**：
-   > "You have the right to remain silent."
+> "He must be warned prior to any questioning that he has the right to remain silent, that anything he says can be used against him in a court of law, that he has the right to the presence of an attorney, and that if he is indigent a lawyer will be appointed for him prior to any questioning if he so desires."
 
-2. **供述可能作为不利证据**：
-   > "Anything you say can and will be used against you in a court of law."
+据此，判决书要求羁押讯问前必须告知嫌疑人以下**四项宪法必需的警告**：
 
-3. **聘请律师权**：
-   > "You have the right to an attorney before and during questioning."
+1. **保持沉默权**：有权保持沉默
+2. **供述可能作为不利证据**：任何陈述都可能在法庭上作为对其不利的证据
+3. **聘请律师权**：有权在讯问前和讯问过程中咨询律师并要求律师在场
+4. **指定律师权**：如果无力聘请律师，将在讯问前为其指定律师
 
-4. **指定律师权**：
-   > "If you cannot afford an attorney, one will be appointed for you before any questioning, if you wish."
+**第5项（后续实践补充）**：判决书原文并未逐字规定以下内容——"你可以随时行使上述权利，中断讯问、不再回答任何问题或作出任何陈述"。这一"随时中断讯问权"的表述是最高法院后续判例（如 Michigan v. Mosley (1975)、Edwards v. Arizona (1981) 确立的权利行使保护规则）发展及执法实践普及后，现代通行警告卡片中新增的常见项目，**并非1966年判决书原文的要求**。
 
-5. **随时中断讯问权**（后续判例补充）：
-   > "You can decide at any time to exercise these rights and not answer any questions or make any statements."
+> **注意**：现代通行警告卡片文本（"You have the right to remain silent..."等）是执法机构在判决书要求基础上发展出的标准表述，并非最高法院在判决书中逐字规定的法定文本。判决书的核心要求是上述四项内容必须"有效传达"（参见 California v. Prysock, 453 U.S. 355 (1981)：警告无须逐字照读原文）。
 
 ---
 

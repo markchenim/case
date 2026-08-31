@@ -15,13 +15,14 @@
 - **出生**：1941年3月9日，亚利桑那州梅萨
 - **死亡**：1976年1月31日，亚利桑那州凤凰城
 - **教育程度**：小学辍学，有精神疾病史
-- **犯罪前科**：有强奸未遂前科
+- **犯罪前科**：少年时期有强奸未遂、袭击等记录，成年后有持械抢劫定罪
 
 ### 指控罪名
 
 - 绑架罪（Kidnapping）
 - 强奸罪（Rape）
-- 抢劫罪（Robbery）
+
+> **说明**：案发过程中嫌疑人还抢走了受害者的少量现金，但Miranda被起诉并被定罪的罪名仅为绑架与强奸两罪，各判20-30年监禁、合并执行。
 
 ### 案件事实
 
@@ -35,7 +36,7 @@
 
 #### 3. 讯问过程
 
-- **时间**：1963年3月13日，下午2点至晚上10点
+- **时间**：1963年3月13日（被捕当日上午开始）
 - **地点**：凤凰城警察局审讯室
 - **警官**：两名警官Carroll Cooley和Wilfred Young
 - **米兰达警告**：**未宣读**
@@ -272,7 +273,7 @@ Warren首席大法官回顾了英国普通法中的"不自证其罪"原则：
 
 - **Stephen Schulhofer**：*Miranda's Practical Effect: Substantial Benefits and Vanishingly Small Social Costs* (1996)
 - **Richard Leo**：*The Impact of Miranda Revisited* (1996)
-- **Yale Kamisar**：*On the Fortieth Anniversary of the Miranda Decision* (2006)
+- **Yale Kamisar**：*On the Fortieth Anniversary of the Miranda Case* (2007)
 
 ### 2. 批评性研究
 
